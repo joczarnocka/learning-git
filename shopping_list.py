@@ -1,4 +1,4 @@
-print("Lista zakupów: 12")
+print("Lista zakupów: - specjalne pozdrowienia")
 shopping_dict = {
      'piekarnia': ['chleb', 'bułki','pączek'],
      'warzywniak':['marchew', 'seler','rukola']
